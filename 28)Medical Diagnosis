@@ -1,0 +1,6 @@
+symptom('Flu').
+symptom('Yellowish eyes and skin').
+
+
+treatment('Flu', 'Drink hot water, avoid cold eatables.').
+treatment('Yellowish eyes and skin', 'Put eye drops, have healthy sleep, do not strain your eyes.').
